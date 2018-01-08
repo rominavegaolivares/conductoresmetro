@@ -1,0 +1,205 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prueba1.html" resolutions="1x" timestamp="1499928060955">
+  <folder name="images">
+    <file name="u954-4.png" crc="209679731" ref="index"/>
+    <file name="u957-4.png" crc="323556926" ref="index"/>
+    <file name="u960-4.png" crc="225752613" ref="index"/>
+    <file name="u897-4.png" crc="233602500" ref="inicio-del-viaje"/>
+    <file name="blank.gif" crc="4208392903" ref="index:historia:inicio-del-viaje"/>
+    <file name="flecha.svg" crc="166774153" seo="true" ref="index:inicio-del-viaje:historia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="flecha_poster_.png" crc="3867915362" ref="index:inicio-del-viaje"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="index:inicio-del-viaje:historia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+      <caption webpage="historia2" alt=""/>
+      <caption webpage="historia2" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="menu_icon_04_white_3line-crop-u1229.png" crc="4113681886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+    </file>
+    <file name="close_light.png" crc="126613487" seo="true" ref="index:inicio-del-viaje:historia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="menu_icon_04_white_3line-crop-u3095.png" crc="4113681886" seo="true" ref="inicio-del-viaje:historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="metro16(2)-rgb.jpg" crc="391246621" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="u4015-4.png" crc="3856351670" ref="historia"/>
+    <file name="u1040_states.png" crc="4106301764" ref="index"/>
+    <file name="u1040_states-r.png" crc="3837144023" ref="index"/>
+    <file name="santiago1.jpg" crc="3915888582" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="acceso20poniente20estacic2a2n20tobalaba2c20prov-1200x800 copia.jpg" crc="4217503986" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="35118_9301_23911784 copia.jpg" crc="4186106308" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="1-1200x800 copia.jpg" crc="3889255180" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="8-1200x800 copia.jpg" crc="4175781363" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="u5831-4.png" crc="257217754" ref="historia"/>
+    <file name="u5916-4.png" crc="102230402" ref="historia"/>
+    <file name="94e152b4cea5d6a5fc69365cd30a2bf3 copia.jpg" crc="115508921" ref="historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="pasted-svg-57.svg" crc="190264636" seo="true" ref="inicio-del-viaje">
+      <caption webpage="historia2" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+    </file>
+    <file name="pasted svg 57_poster_.png" crc="4282907801" ref="inicio-del-viaje"/>
+    <file name="u6575-4.png" crc="63311588" ref="historia"/>
+    <file name="u6571-4.png" crc="4083683642" ref="historia"/>
+    <file name="u6592-4.png" crc="4169405611" ref="historia"/>
+    <file name="pasted-svg-270553x235.svg" crc="202277263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio-del-viaje" alt=""/>
+      <caption webpage="historia2" alt=""/>
+    </file>
+    <file name="pasted svg 270553x235_poster_.png" crc="325898013" ref="index"/>
+    <file name="u7679-4.png" crc="383991285" ref="historia"/>
+    <file name="u7666-4.png" crc="484087953" ref="historia"/>
+    <file name="u7696-4.png" crc="4156540997" ref="historia"/>
+    <file name="u7692-4.png" crc="318750117" ref="historia"/>
+    <file name="u7848-4.png" crc="408600360" ref="historia"/>
+    <file name="u7836-4.png" crc="336962277" ref="historia"/>
+    <file name="u7865-4.png" crc="153361911" ref="historia"/>
+    <file name="u7852-4.png" crc="185517797" ref="historia"/>
+    <file name="u7873-4.png" crc="4023550543" ref="historia"/>
+    <file name="u7890-4.png" crc="280163325" ref="historia"/>
+    <file name="u7899-4.png" crc="4152559254" ref="historia"/>
+    <file name="u7911-4.png" crc="189313919" ref="historia"/>
+    <file name="u7945-4.png" crc="3889964648" ref="historia"/>
+    <file name="u7941-4.png" crc="4288970781" ref="historia"/>
+    <file name="u7966-4.png" crc="326717170" ref="historia"/>
+    <file name="u7962-4.png" crc="4224637137" ref="historia"/>
+    <file name="u7978-4.png" crc="126752851" ref="historia"/>
+    <file name="u8011-4.png" crc="4009627614" ref="historia"/>
+    <file name="u8024-4.png" crc="4154822391" ref="historia"/>
+    <file name="u8045-4.png" crc="4113321737" ref="historia"/>
+    <file name="u8032-4.png" crc="4124014791" ref="historia"/>
+    <file name="u8062-4.png" crc="381466084" ref="historia"/>
+    <file name="u8058-4.png" crc="4161188232" ref="historia"/>
+    <file name="u8074-4.png" crc="4153450815" ref="historia"/>
+    <file name="u8091-4.png" crc="4077370632" ref="historia"/>
+    <file name="u8222_states.png" crc="4071160566" ref="historia"/>
+    <file name="u8222_states-r.png" crc="144788173" ref="historia"/>
+    <file name="u10800-4.png" crc="122391701" ref="inicio-del-viaje"/>
+    <file name="u11071-4.png" crc="4118342227" ref="inicio-del-viaje"/>
+    <file name="u11069-4.png" crc="108255036" ref="inicio-del-viaje"/>
+    <file name="u11209-6.png" crc="4059114769" ref="inicio-del-viaje"/>
+    <file name="u11218-4.png" crc="123380052" ref="inicio-del-viaje"/>
+    <file name="u11306-8.png" crc="168244495" ref="inicio-del-viaje"/>
+    <file name="u11309-4.png" crc="91099028" ref="inicio-del-viaje"/>
+    <file name="u11321-4.png" crc="241681558" ref="inicio-del-viaje"/>
+    <file name="u11327-4.png" crc="180706569" ref="inicio-del-viaje"/>
+    <file name="u11374-4.png" crc="256512052" ref="inicio-del-viaje"/>
+    <file name="u11386-4.png" crc="4082790919" ref="inicio-del-viaje"/>
+    <file name="u11395-4.png" crc="3875378923" ref="inicio-del-viaje"/>
+    <file name="u11398-4.png" crc="116125312" ref="inicio-del-viaje"/>
+    <file name="u11413-4.png" crc="437938635" ref="inicio-del-viaje"/>
+    <file name="u11410-4.png" crc="89804519" ref="inicio-del-viaje"/>
+    <file name="u11419-4.png" crc="4157047303" ref="inicio-del-viaje"/>
+    <file name="u11566-4.png" crc="4216553864" ref="inicio-del-viaje"/>
+    <file name="u11572-4.png" crc="4014963519" ref="inicio-del-viaje"/>
+    <file name="u11584-4.png" crc="298218568" ref="inicio-del-viaje"/>
+    <file name="u11581-4.png" crc="4134611968" ref="inicio-del-viaje"/>
+    <file name="u11599-4.png" crc="4114128872" ref="inicio-del-viaje"/>
+    <file name="u11596-4.png" crc="408621356" ref="inicio-del-viaje"/>
+    <file name="u11611-4.png" crc="4088389087" ref="inicio-del-viaje"/>
+    <file name="u11614-4.png" crc="62989695" ref="inicio-del-viaje"/>
+    <file name="u11626-4.png" crc="251967379" ref="inicio-del-viaje"/>
+    <file name="u11629-4.png" crc="260617985" ref="inicio-del-viaje"/>
+    <file name="u11650-4.png" crc="4034286771" ref="inicio-del-viaje"/>
+    <file name="pasted-svg-572.svg" crc="109229133" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="pasted svg 57_poster_2.png" crc="483905618" ref="historia"/>
+    <file name="u11979_states.png" crc="169141140" ref="inicio-del-viaje"/>
+    <file name="u11979_states-r.png" crc="4063348219" ref="inicio-del-viaje"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="445978546"/>
+    <file name="index.css" crc="3944808245" ref="index"/>
+    <file name="inicio-del-viaje.css" crc="323226342" ref="inicio-del-viaje"/>
+    <file name="master_a-master.css" crc="4145595943" ref="index"/>
+    <file name="master_b-master.css" crc="3774649814" ref="inicio-del-viaje:historia"/>
+    <file name="historia.css" crc="372104118" ref="historia"/>
+  </folder>
+  <folder name="assets">
+    <file name="metro2.mp4" crc="136390201" seo="true" mt="1498705778000"/>
+    <file name="metro2.webm" crc="3830370934" seo="true" mt="1498706226000"/>
+    <file name="metro3.mp4" crc="108245604" seo="true" mt="1498707202000"/>
+    <file name="metro3.webm" crc="3863192274" seo="true" mt="1498708059000"/>
+    <file name="metro3.ogg" crc="164449313" seo="true" mt="1498710375000"/>
+    <file name="metro2.ogg" crc="4054515859" seo="true" mt="1498710724000"/>
+    <file name="metro4.mp4" crc="3969652898" seo="true" mt="1498708433000"/>
+    <file name="metro4.ogg" crc="3763968403" seo="true" mt="1498710952000"/>
+    <file name="metro4.webm" crc="3999935784" seo="true" mt="1498708813000"/>
+    <file name="metro5.mp4" crc="57595373" seo="true" mt="1499023916000"/>
+    <file name="metro5.ogg" crc="436230396" seo="true" mt="1499024256000"/>
+    <file name="metro5.webm" crc="4102345470" seo="true" mt="1499024167000"/>
+    <file name="metro6.mp4" crc="4129040776" seo="true" mt="1499913418000"/>
+    <file name="metro6.ogg" crc="277545455" seo="true" mt="1499914698000"/>
+    <file name="metro6.webm" crc="3994799827" seo="true" mt="1499914392000"/>
+    <file name="metro7.mp4" crc="4272521542" seo="true" mt="1499913965000"/>
+    <file name="metro7.ogg" crc="4178538990" seo="true" mt="1499914952000"/>
+    <file name="metro7.webm" crc="339309599" seo="true" mt="1499914691000"/>
+    <file name="metro8.mp4" crc="170994692" seo="true" mt="1499914415000"/>
+    <file name="metro8.webm" crc="3921237102" seo="true" mt="1499914962000"/>
+    <file name="muse_manifest.xml" crc="4283465117" seo="true" mt="1499927939000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio-del-viaje:historia"/>
+    <file name="museutils.js" crc="4232573551" ref="index:inicio-del-viaje:historia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inicio-del-viaje:historia"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:inicio-del-viaje:historia"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:inicio-del-viaje:historia"/>
+    <file name="require.js" crc="4234670167" ref="index:inicio-del-viaje:historia"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="inicio-del-viaje:index:historia"/>
+    <file name="webpro.js" crc="3770351119" ref="index:inicio-del-viaje:historia"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:inicio-del-viaje:historia"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:inicio-del-viaje:historia"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:inicio-del-viaje:historia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="historia"/>
+  </folder>
+  <file name="index.html" crc="3816749016" seo="true" mt="1499925909397" redirect="true"/>
+  <file name="inicio-del-viaje.html" crc="4243186617" seo="true" mt="1499928041403" redirect="true"/>
+  <file name="historia.html" crc="515651879" seo="true" mt="1499926026513" redirect="true"/>
+</manifest>
